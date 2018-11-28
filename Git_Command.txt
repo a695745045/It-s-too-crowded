@@ -1,11 +1,14 @@
-git init
+﻿git init
 
-git add "xxx" 添加提交文件
+git add "xxx" --添加提交文件
 
-git commit -m "xxx" 提交且必须添加注释说明参数
+git commit -m "xxx" --提交且必须添加注释说明参数
 
 git remote add origin https://github.com/a695745045/It-s-too-crowded.git
 
 git push -u origin master  --上传服务器
 
 git pull --更新
+
+
+git checkout * --回退

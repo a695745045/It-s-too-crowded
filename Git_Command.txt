@@ -1,0 +1,11 @@
+git init
+
+git add "xxx" 添加提交文件
+
+git commit -m "xxx" 提交备注说明
+
+git remote add origin https://github.com/a695745045/It-s-too-crowded.git
+
+git push -u origin master  --上传服务器
+
+git pull --更新

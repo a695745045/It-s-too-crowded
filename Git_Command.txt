@@ -1,11 +1,11 @@
 git init
 
-git add "xxx" Ìí¼ÓÌá½»ÎÄ¼ş
+git add "xxx" æ·»åŠ æäº¤æ–‡ä»¶
 
-git commit -m "xxx" Ìá½»±¸×¢ËµÃ÷
+git commit -m "xxx" æäº¤ä¸”å¿…é¡»æ·»åŠ æ³¨é‡Šè¯´æ˜å‚æ•°
 
 git remote add origin https://github.com/a695745045/It-s-too-crowded.git
 
-git push -u origin master  --ÉÏ´«·şÎñÆ÷
+git push -u origin master  --ä¸Šä¼ æœåŠ¡å™¨
 
-git pull --¸üĞÂ
+git pull --æ›´æ–°

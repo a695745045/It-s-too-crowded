@@ -1,0 +1,14 @@
+<root>
+	<LocalHost>
+		<Port>9992</Port>
+	</LocalHost>
+	<Server>
+		<Port></Port>
+	</Server>
+	<SqlServer>
+		<IP>8.99.1.144</IP>
+		<Database>NFineBase</Database>
+		<Uid>sa</Uid>
+		<Pwd>123456</Pwd>
+	</SqlServer>
+</root>

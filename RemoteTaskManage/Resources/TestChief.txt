@@ -1,0 +1,15 @@
+{<<Scenario_TestChief_UiName>>
+UiName=<<Scenario_TestChief_UiName>>
+Type=1
+SubType=<<Scenario_TestChief_SubType>>
+Path=<<Scenario_TestChief_Path>>
+Config=<<Scenario_TestChief_Config>>
+ConfigUsp=<<Scenario_TestChief_ConfigUsp>>
+Param=
+TDPath=
+TDServer=
+TDDatabase=
+Platform=All
+AstraSubType=0
+}
+
